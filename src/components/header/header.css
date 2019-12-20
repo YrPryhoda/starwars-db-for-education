@@ -1,0 +1,22 @@
+.nav-item {
+    margin-left: 20px;
+}
+
+#after-and-toggler ul li a {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
+#after-and-toggler ul li a::after {
+    content: '';
+    display: block;
+    width: 0%;
+    height: 2px;
+    background-color: #fff;
+    transition: all 1s;
+}
+
+#after-and-toggler ul li a:hover::after {
+    width: 100%;
+}

@@ -1,0 +1,14 @@
+.icon-error {
+    padding: 0;
+    margin:0;
+    width: 300px;
+}
+.error-div {
+    position: relative;
+    display: block;
+    width:100%
+}
+.text-content {
+    padding:0;
+    margin-bottom: 4px;;
+}

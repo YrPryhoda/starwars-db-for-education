@@ -1,0 +1,30 @@
+.my-welcome {
+  position: relative;
+  margin-top: 30px;
+  text-align: center;
+  padding: 0;
+  
+}
+.my-welcome h4 {
+  position: absolute;
+  color: wheat;
+  bottom: 6px;
+  left: 0;
+  right: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.my-image {
+  border-radius: 5px;
+  width: 95%;
+  border: 1px solid grey;
+  box-shadow: 0;
+  transition: all .5s;
+}
+.my-image:hover {
+  box-shadow: 0 0 0 2px white, 0 0 0 4px #3A2F28;
+  transform: scale(1.03);
+
+  
+}

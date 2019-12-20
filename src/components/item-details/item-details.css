@@ -1,0 +1,26 @@
+.avatar {
+    width: 100%; 
+    display: block;
+}
+.media {
+    margin-top: 20px;
+}
+.navigation {
+    text-align: center;
+padding: 0;
+    position: relative;
+    margin-top: 20px;
+    height: 30vw;
+}
+
+.info {
+    position: absolute;
+    width: 100%;
+    margin:0;
+    padding: 0;
+    top: 50%;
+}
+.underline {
+    border-bottom: 2px solid rgba(207,207,207,0.6);
+    
+}
