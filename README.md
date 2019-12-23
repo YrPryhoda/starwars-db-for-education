@@ -1,3 +1,5 @@
+DEMO https://edu-starwars-db.firebaseapp.com/
+
 I used https://swapi.co/ API as a batabase for my education project 
 
 In the project directory, you can run:
