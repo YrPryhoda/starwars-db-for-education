@@ -1,4 +1,4 @@
-DEMO https://edu-starwars-db.firebaseapp.com/
+DEMO: https://edu-starwars.web.app/
 
 I used 'https://swapi.dev/api' API as a batabase for my education project 
 
